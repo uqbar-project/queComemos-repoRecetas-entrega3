@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.uqbar-project</groupId>
 	<artifactId>queComemos-repoRecetas-entrega3</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>queComemos-repoRecetas-entrega3</name>
 	<description>Nuevo repositorio de Recetas para integrar en la entrega 3</description>
 
