@@ -2,9 +2,9 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.uqbar-project</groupId>
-	<artifactId>queComemos-repoRecetas-java</artifactId>
+	<artifactId>queComemos-repoRecetas-entrega3</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>queComemos-repoRecetas-java</name>
+	<name>queComemos-repoRecetas-entrega3</name>
 	<description>Nuevo repositorio de Recetas para integrar en la entrega 3</description>
 
 	<properties>
