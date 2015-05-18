@@ -17,3 +17,5 @@ La dependencia a agregar debe ser:
 	<version>0.0.2</version>
 </dependency>
 ```
+
+Este componente está deployado en Maven Central por lo que no es necesario hacer ningún cambio en el archivo settings.xml de tu máquina.
