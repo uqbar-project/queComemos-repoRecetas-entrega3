@@ -24,7 +24,7 @@ public class RecetaBuilder {
 	}
 
 	public RecetaBuilder tiempoPreparacion(int tiempoPreparacion) {
-		receta.setTotalCalorias(tiempoPreparacion);
+		receta.setTiempoPreparacion(tiempoPreparacion);
 		return this;
 	}
 
